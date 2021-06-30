@@ -11,3 +11,11 @@ This is a Basic Static Portfolio template Done by using SCSS. This page can be f
 - An extension named Live Server has to be installed to see the instant changes made in the website without even refreshing the page
 
 ## Template View
+
+![screenshot](https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss/blob/main/Images/img%201.jpg)
+
+![Screenshot](https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss/blob/main/Images/img%202.jpg)
+
+![screenshot](https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss/blob/main/Images/img%203.jpg)
+
+![screenshot](https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss/blob/main/Images/img%204.jpg)
