@@ -10,6 +10,14 @@ This is a Basic Static Portfolio template Done by using SCSS. This page can be f
 
 - An extension named Live Server has to be installed to see the instant changes made in the website without even refreshing the page
 
+## Installation
+
+To clone this project
+
+```bash
+git clone "https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss"
+```
+
 ## Template View
 
 ![screenshot](https://github.com/Rubakpreyan/SimpleProtfolio-Using-Scss/blob/main/Images/img%201.jpg)
